@@ -102,12 +102,12 @@ let questions = [
       {
       numb: 10,
       question: "What does API stand for",
-      answer: "JavaScript XML",
+      answer: "Application Programming Interface",
       options: [
-        "JavaScript Query Language",
-        "JavaScript XML",
-        "JavaScript extensive language",
-        "JavaScript Markup Language"
+        "Application Program Input",
+        "Application Program Interface",
+        "Application Programming Interchange",
+        "Application Programming Interface  "
       ]
     },
   // you can uncomment the below codes and make duplicate as more as you want to add question
